@@ -9,6 +9,7 @@ Teaching web basics to high-school students in Rožaje ([O ruk! radionice](https
 Writing at [ilhan.io/blogs](https://ilhan.io/blogs)
 
 **Stack**  
-Vue · Nuxt · TypeScript · Vite · Tailwind · Firebase · C# / ASP.NET Core
+Vue · Nuxt · TypeScript · Pinia · Tailwind  
+C# · ASP.NET Core · SQL · Firebase · PostHog
 
 [ilhan.io](https://ilhan.io) — [LinkedIn](https://www.linkedin.com/in/ilhankalac/) — [Now](https://ilhan.io/now)
