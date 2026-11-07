@@ -1,6 +1,6 @@
 ## Ilhan Kalač
 
-Frontend engineer from Montenegro. I build fast, accessible web apps with Vue 3, Nuxt and TypeScript.
+Software engineer from Montenegro. I build fast, accessible web apps: Vue, Nuxt and TypeScript on the frontend, C# and ASP.NET Core on the backend.
 
 **Now**  
 Building the customer-facing frontend at ViaLuxury, a luxury travel platform  
