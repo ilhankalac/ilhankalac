@@ -3,8 +3,8 @@
 Software engineer from Montenegro. I build fast, accessible web apps: Vue, Nuxt and TypeScript on the frontend, C# and ASP.NET Core on the backend.
 
 **Now**  
-Building the customer-facing frontend at ViaLuxury, a luxury travel platform  
-Learning ASP.NET Core: modular-monolith Web APIs, validation, EF Core + PostgreSQL  
+Building ViaLuxury, a luxury travel platform  
+Building a modular-monolith Web API in ASP.NET Core: validation, EF Core + PostgreSQL  
 Writing at [ilhan.io/blogs](https://ilhan.io/blogs)
 
 **Stack**  
